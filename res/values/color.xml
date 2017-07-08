@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources >
+<color name="background">#ff000000</color>
+<color name="highlight"> #ffffffff</color>
+<color name="gold">#ffffd700</color>
+<color name="silver">#bbc0c0c0</color>
+<color name="gover">#fffcd00c</color>
+<color name="light">#64c6d4ef</color>
+<color name="dark">#6456648f</color>
+<color name="lightblue">#ff00ccff</color>
+<color name="foreground">#ff000000</color>
+<color name="selected">#ffff8000</color>
+<color name="tile1">#ff660000</color>
+<color name="tile2">#ff000099</color>
+<color name="tile3">#ff006600</color>
+<color name="tile4">#ff006699</color>
+<color name="tile5">#ff660099</color>
+<color name="tile6">#ffaaaa00</color>
+<color name="tile7">#ffff00ff</color>
+<color name="tile8">#ff00ccff</color>
+<color name="tile9">#ff990066</color>
+<color name="tile0">#ffffff00</color>
+<color name="wrong">#ffaaaaaa</color>
+<color name="close">#ff335533</color>    
+</resources>

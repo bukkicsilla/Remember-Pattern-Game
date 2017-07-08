@@ -1,0 +1,60 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/layout_root"
+    android:orientation="vertical"
+    android:background="@color/background"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" 
+        android:textSize="66sp"/>
+    
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        style="?android:attr/borderlessButtonStyle"
+        android:layout_gravity="center_horizontal"
+        android:textSize="66sp"
+        android:textColor="@color/gover"
+        android:background="@color/background"
+        android:text="@string/about_label"
+        android:onClick="onClickAbout" />
+        <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" 
+        android:textSize="66sp"/>
+        
+         
+         <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        style="?android:attr/borderlessButtonStyle"
+        android:layout_gravity="center_horizontal"
+        android:textSize="66sp"
+        android:textColor="@color/gover"
+        android:background="@color/background"
+        android:text="@string/play_label"
+        android:onClick="onClickPlay" />
+        
+        <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" 
+        android:textSize="66sp"/>
+    
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        style="?android:attr/borderlessButtonStyle"
+        android:layout_gravity="center_horizontal"
+        android:textSize="66sp"
+        android:textColor="@color/gover"
+        android:background="@color/background"
+        android:text="@string/finish_label"
+        android:onClick="onClickFinish" />
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textSize="66sp" />
+</LinearLayout>
